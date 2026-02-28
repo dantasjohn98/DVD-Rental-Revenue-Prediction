@@ -79,9 +79,11 @@ Pipeline estruturado com sklearn
 Deploy do modelo (API ou App interativo)
 
 ▶️ Como Executar
-git clone https://github.com/dantasjohn98/DVD-Rental-Revenue-Prediction
-.git
+
+git clone https://github.com/dantasjohn98/DVD-Rental-Revenue-Prediction.git
+
 pip install pandas numpy matplotlib seaborn scikit-learn jupyter
+
 jupyter notebook
 
 🛠 Stack
